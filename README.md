@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vi, I am someone who always strives for independence. I enjoy exploring new things and have a passion for creating, programming, and reading books. I may not be skilled yet, but I can make an effort.
+I'm Vi, I am someone who always independence. I enjoy exploring new things and have a passion for creating, programming, and reading books. I may not be skilled yet, but I can make an effort.
 
 - 🌱 I’m currently learning at Dong Nai technology university
 - 👯 My major is IT
